@@ -1,3 +1,8 @@
+<script setup lang="ts">
+definePageMeta({
+  layout: 'funnel',
+})
+</script>
 <template>
   <div>
     <h1>git test</h1>
