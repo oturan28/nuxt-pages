@@ -9,6 +9,10 @@
             <span class="sr-only">Link in einem neuen Tab öffnen</span></a>
         </li>
         <li class="inline-flex mx-2 md:mx-5">
+          <a class="anw-dark-link anw-text-p1" target="_blank" href="/impressum.php">Impressum
+            <span class="sr-only">Link in einem neuen Tab öffnen</span></a>
+        </li>
+        <li class="inline-flex mx-2 md:mx-5">
           <a class="anw-dark-link anw-text-p1" target="_blank" href="/pdf/DSE_anwalt.de.pdf">Datenschutz
             <span class="sr-only">Link in einem neuen Tab öffnen</span></a>
         </li>
