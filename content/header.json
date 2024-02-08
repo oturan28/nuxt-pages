@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "href": "/anwaelte",
+      "title": "Anwälte",
+      "text": "Anwälte"
+    },
+    {
+      "href": "/kanzleien",
+      "title": "Kanzleien",
+      "text": "Kanzleien"
+    },
+    {
+      "href": "/rechtstipps",
+      "title": "Rechtstipps",
+      "text": "Rechtstipps"
+    }
+  ]
+}

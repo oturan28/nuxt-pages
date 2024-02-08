@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Anwalts- und Kanzleisuche",
+    "links": [
+      {
+        "href": "/anwaelte",
+        "title": "Anwaltssuche",
+        "text": "Anwälte suchen und finden"
+      },
+      {
+        "href": "/kanzleien",
+        "title": "Kanzleisuche",
+        "text": "Kanzleien suchen und finden"
+      }
+    ]
+  },
+  {
+    "title": "Rund ums Recht",
+    "links": [
+      {
+        "href": "/rechtstipps",
+        "title": "Neueste Rechtstipps",
+        "text": "Neueste Rechtstipps"
+      },
+      {
+        "href": "/rechtstipps/newsletter.php",
+        "title": "Newsletter für Ratsuchende",
+        "text": "Rechtstipps-Newsletter abonnieren"
+      },
+      {
+        "href": "/rechtstipps/ratgeber",
+        "title": "Wichtige Ratgeber rund ums Recht",
+        "text": "anwalt.de-Ratgeber"
+      },
+      {
+        "href": "/gesetze",
+        "title": "Gesetze im Überblick",
+        "text": "Alle Gesetze"
+      }
+    ]
+  },
+  {
+    "title": "Für Anwälte und Kanzleien",
+    "links": [
+      {
+        "href": "/mitmachen",
+        "title": "Registrieren bei anwalt.de",
+        "text": "Mitmachen bei anwalt.de"
+      },
+      {
+        "href": "/fuer-rechtsanwaelte",
+        "title": "Exklusives Wissen für Anwälte",
+        "text": "Neueste Beiträge für Anwälte"
+      },
+      {
+        "href": "/b2b/report-anmeldung/",
+        "title": "Newsletter für Rechtsanwälte",
+        "text": "anwalt.de-Report abonnieren"
+      }
+    ]
+  },
+  {
+    "title": "Anwalts-Übersichten",
+    "links": [
+      {
+        "href": "/verzeichnis/bewertungen.php",
+        "title": "Neueste Rechtsanwaltsbewertungen",
+        "text": "Neueste Anwaltsbewertungen"
+      },
+      {
+        "href": "/verzeichnis/fachanwalt.php",
+        "title": "Fachanwälte suchen und finden",
+        "text": "Fachanwälte"
+      },
+      {
+        "href": "/verzeichnis/rechtsgebiete.php",
+        "title": "Rechtsanwälte nach Rechtsgebieten",
+        "text": "Rechtsgebiete"
+      },
+      {
+        "href": "/verzeichnis/themen.php",
+        "title": "Rechtsanwälte nach Rechtsthemen",
+        "text": "Rechtsanwälte nach Rechtsthemen"
+      },
+      {
+        "href": "/verzeichnis/orte.php",
+        "title": "Rechtsanwälte nach deutschen Orten",
+        "text": "Orte Deutschland"
+      },
+      {
+        "href": "/verzeichnis/orte-international.php",
+        "title": "Rechtsanwälte nach internationalen Orten",
+        "text": "Orte weltweit"
+      }
+    ]
+  },
+  {
+    "title": "Tools",
+    "links": [
+      {
+        "href": "/recht-nuetzlich/index.php#online-rechner",
+        "title": "Kostenlose Online-Rechner",
+        "text": "Online-Rechner"
+      },
+      {
+        "href": "/recht-nuetzlich/index.php#muster-vorlagen",
+        "title": "Kostenlose Muster-Vorlagen",
+        "text": "Mustervorlagen"
+      },
+      {
+        "href": "/recht-nuetzlich/index.php#widgets",
+        "title": "Kostenlose Widgets",
+        "text": "Widgets"
+      }
+    ]
+  }
+]
