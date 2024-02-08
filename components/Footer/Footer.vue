@@ -7,6 +7,6 @@ import { AnwGridFooter } from '@anwalt.de/tailwind-design-system';
   </div>
 </template>
 <style lang="css">
-@import '../../node_modules/@anwalt.de/tailwind-design-system/src/index.css';
-@import '../../node_modules/@anwalt.de/tailwind-design-system/dist/style.css';
+@import '@/node_modules/@anwalt.de/tailwind-design-system/src/index.css';
+@import '@/node_modules/@anwalt.de/tailwind-design-system/dist/style.css';
 </style>
