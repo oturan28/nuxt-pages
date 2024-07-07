@@ -7,5 +7,8 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     'nuxt-phosphor-icons',
     '@nuxt/content'
-  ]
+  ],
+  experimental: {
+    componentIslands: 'local+remote'
+  }
 })
