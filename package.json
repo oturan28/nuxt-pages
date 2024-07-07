@@ -10,7 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@anwalt.de/tailwind-design-system": "ssh://git@bitbucket.org:anwaltde/tailwind-design-system.git",
     "@nuxt/content": "^2.11.0",
     "@nuxtjs/tailwindcss": "^6.11.0",
     "@pinia/nuxt": "^0.5.1",
